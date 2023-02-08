@@ -1,5 +1,4 @@
 <h1>MY WEBPAGE: https://kagariet01.github.io</h1>
-<br>
 source code: https://github.com/KagariET01/kagariet01.github.io
 <!--
 **KagariET01/KagariET01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
