@@ -1,5 +1,5 @@
 # ET01
-![自畫像](./image0.jpg)
+![自畫像](https://avatars.githubusercontent.com/u/66681962)
 ## 自我介紹  
 嗨，你好，這裡是ET01  
 一個很喜歡搞事的廢物  
