@@ -1,11 +1,15 @@
 # `ET01`
-![自畫像](https://avatars.githubusercontent.com/u/66681962)  
-小ㄌㄌ好可愛，好喜歡
+你好，我是ET01，請多指教
 
-## 其他資訊
-[Github.io](https://kagariet01.github.io/about)
+# 特色Repo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kagariet01&exclude_repo=dotfiles&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+- [codesp](https://github.com/KagariET01/codesp)
+  ZJ,TIOJ,CF... 等各大OJ題解
+- [kagariet01.github.io](https://github.com/KagariET01/kagariet01.github.io) (暫停維護)
+  我的個人小網站，<https://kagariet01.github.io>
+- [DC_OAuth_Demo](https://github.com/KagariET01/DC_OAuth_Demo)
+  "使用DC帳號登入"的演示網頁
+- [boyskirt](https://github.com/KagariET01/boyskirt)
+  
 
-## 我的 organizations
-### 板中資訊社第35屆 HTML組 講義[PCIC 35th HTML](https://github.com/pcic35-html)
+
